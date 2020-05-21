@@ -2,7 +2,7 @@
 
 ## Presentation of the simplest counter application showing how to apply the Dependency Inversion Principle
 
-[Slides](https://csb-9kg5y-8d0n41fyp.now.sh/)
+[Presentation](https://csb-9kg5y-8d0n41fyp.now.sh/)
 
 ---
 
